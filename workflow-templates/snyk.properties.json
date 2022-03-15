@@ -1,0 +1,8 @@
+{
+  "name": "Snyk Workflow",
+  "description": "Snyk starter workflow.",
+  "iconName": "python-icon",
+  "categories": [
+      "Python"
+  ]
+}
